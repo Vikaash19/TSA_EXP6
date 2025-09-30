@@ -2,7 +2,7 @@
 ### Date: 30.9.2025
 ### AIM: 
 To implement the Holt Winters Method Model using Python.
-### ALGORITHM
+### ALGORITHM:
 1. You import the necessary libraries
 2. You load a CSV file containing daily sales data into a DataFrame, parse the 'date' column as
 datetime, set it as index, and perform some initial data exploration
