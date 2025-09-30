@@ -1,4 +1,5 @@
 # Ex.No: 6 HOLT WINTERS METHOD
+### Date: 30.9.2025
 ### AIM: 
 To implement the Holt Winters Method Model using Python.
 ### ALGORITHM
